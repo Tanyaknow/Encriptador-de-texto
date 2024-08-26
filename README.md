@@ -25,7 +25,9 @@ El encriptador de texto permite a los usuarios ingresar un texto y aplicar una c
 Este proyecto fue construido con:
 
 HTML5 para la estructura de la página.
+
 CSS3 para el estilo y diseño.
+
 JavaScript para la lógica de encriptación y desencriptación.
 
 <h3>Instalación</h3>
