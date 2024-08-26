@@ -26,7 +26,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 -Clona el repositorio:
 
-git clone https://github.com/tu-usuario/encriptador-de-texto.git
+git clone https://github.com/Tanyaknow/Encriptador-de-texto.git
 
 -Navega al directorio del proyecto:
 
